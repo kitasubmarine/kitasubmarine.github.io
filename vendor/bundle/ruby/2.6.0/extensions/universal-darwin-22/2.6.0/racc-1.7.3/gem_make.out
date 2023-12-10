@@ -1,0 +1,17 @@
+current directory: /Users/kitasub/Desktop/develop/kitasubmarine.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20231210-54332-1dwwy8w.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kitasub/Desktop/develop/kitasubmarine.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/kitasub/Desktop/develop/kitasubmarine.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/97f6331a-ba75-11ed-a4bc-863efbbaf80d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.Internal.sdk/usr/local/lib'
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/kitasub/Desktop/develop/kitasubmarine.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231210-54332-10wwd1f/racc
