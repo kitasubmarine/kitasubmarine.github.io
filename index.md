@@ -2,7 +2,7 @@
 
 個人開発をしています。
 
-ご連絡・お問合せ先： kitasub13@gmail.com
+ご連絡・お問合せ先： <kitasub13@gmail.com>
 
 ## 開発アプリ一覧
 
@@ -21,6 +21,14 @@
 ポケモンSVのダメージ計算アプリです。
 
 [詳細](./apps/erudame/index.md)
+
+###  勇者の財布はボロボロだ
+
+![icon](./apps/yusha_wallet/icon.png)
+
+お金の管理ができない勇者に向けた、お財布管理アプリです。
+
+ [詳細](./apps/yusha_wallet/index.md)
 
 ### おみやクイズ
 
